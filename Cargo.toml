@@ -2,7 +2,7 @@
 name = "rollz"
 version = "0.1.0"
 description = "A super-simple Rust crate that allows you to... roll dice! What else would you need from a crate?"
-keywords = ["die", "dice", "roll", "random", "dungeon and dragons"]
+keywords = ["die", "dice", "roll", "random", "dungeon", "dragons", "dand"]
 categories = ["games"]
 repository = "https://github.com/lmammino/rollz"
 documentation = "https://github.com/lmammino/rollz"
